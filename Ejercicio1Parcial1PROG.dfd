@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+45
+'Ingrese el precio del artículo que lleva: $'
+5
+1
+14
+precioarticulo
+4
+1
+45
+'¿Qué cantidad de este artículo lleva usted?'
+5
+1
+8
+cantidad
+6
+1
+5
+total
+23
+precioarticulo*cantidad
+4
+1
+57
+'El total que usted debe pagar por su compra es: $',total
+4
+1
+38
+'GRACIAS POR SU COMRA, VUELVA PRONTO.'
+1
